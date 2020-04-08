@@ -1,0 +1,15 @@
+CodeVisionAVR C Compiler V1.25.8 Standard
+(C) Copyright 1998-2007 Pavel Haiduc, HP InfoTech s.r.l.
+http://www.hpinfotech.com
+
+File: k:\1.my projects\26.svm\code\svm_test\v1.0\test.c
+Global variables memory map:
+
+Variable                          Address   Size
+SVNSG                                                                 260h     10
+Sel                                                                   26Ah      8
+Pass                                                                  272h      4
+menu                                                                    R5      1
+amount                                                                  R4      1
+time                                                                    R7      1
+pos                                                                   R2.0    1/8
